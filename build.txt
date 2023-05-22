@@ -1,0 +1,3 @@
+displayName = Fast Permanent Consumables
+author = livingtrashcan
+version = 0.1

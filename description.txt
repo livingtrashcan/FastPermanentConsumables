@@ -1,0 +1,10 @@
+Reduces the time needed to use permanent consumables.
+
+This mod does the following:
+- Accelerates the usage to 6 Frames (ie will use an item 10 times per second at 60 FPS)
+- Enables auto-use
+
+This mod affects the following items:
+- Life Crystal
+- Life Fruit
+- Mana Crystal

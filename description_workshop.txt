@@ -7,7 +7,8 @@ This mod does the following:
 [/list]
 
 This mod affects the following items:
-[list] Life Crystal
+[list]
+[*] Life Crystal
 [*] Life Fruit
 [*] Mana Crystal
 [/list]

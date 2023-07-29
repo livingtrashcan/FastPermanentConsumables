@@ -22,10 +22,8 @@ namespace FastPermanentConsumables.Items
 	{
 		public override ConfigScope Mode => ConfigScope.ServerSide;
 
-		[Header("Changes_require_reloads")]
+		[Header("RequiresReloads")]
 
-		[Label("Use speed of affected items")]
-		[Tooltip("Sets the useTime property of the affected items to the set value. Default value is 6. Vanilla value is 30.")]
 		[Range(1, 30)]
 		[Increment(1)]
 		[Slider]
@@ -33,8 +31,6 @@ namespace FastPermanentConsumables.Items
 		[ReloadRequired]
 		public int UseTime;
 
-		[Label("Disable use sound")]
-		[Tooltip("Low UseTime values may play use sounds at an uncomfortable rate, especially for prolonged periods of time. Tick to disable the sounds of the affected items.")]
 		[DefaultValue(false)]
 		[ReloadRequired]
 		public bool DisableSound;

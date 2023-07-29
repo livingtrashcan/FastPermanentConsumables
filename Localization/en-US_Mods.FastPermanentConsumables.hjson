@@ -1,7 +1,7 @@
 Configs: {
 	MainConfig: {
 		DisplayName: Main Config
-		Headers.Changes_require_reloads: Changes_require_reloads Header
+		Headers.RequiresReloads: Changes require reloads
 
 		UseTime: {
 			Label: Use speed of affected items

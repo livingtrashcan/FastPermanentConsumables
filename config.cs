@@ -22,7 +22,7 @@ namespace FastPermanentConsumables.Items
 	{
 		public override ConfigScope Mode => ConfigScope.ServerSide;
 
-		[Header("Changes require reloads")]
+		[Header("Changes_require_reloads")]
 
 		[Label("Use speed of affected items")]
 		[Tooltip("Sets the useTime property of the affected items to the set value. Default value is 6. Vanilla value is 30.")]

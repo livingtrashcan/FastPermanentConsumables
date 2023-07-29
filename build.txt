@@ -1,6 +1,6 @@
 displayName = Fast Permanent Consumables
 author = livingtrashcan
 homepage = https://github.com/livingtrashcan/FastPermanentConsumables
-version = 1.0
+version = 1.0.1
 includeSource = true
 buildIgnore = README.md, LICENSE.txt
